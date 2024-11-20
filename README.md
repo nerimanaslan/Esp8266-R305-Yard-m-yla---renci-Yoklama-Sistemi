@@ -1,4 +1,4 @@
-Fingerprint Sensör Yardımıyla Öğrencilerin Giri Çıkışı Tutulmaktadır.
+Fingerprint Sensör Yardımıyla Öğrencilerin Giriş Çıkışı Tutulmaktadır.
 
 
 
